@@ -1,10 +1,10 @@
+![image](https://github.com/Willy-Chan/Bulk-Image-Renamer/assets/106504264/94f00d2a-9e2c-4d59-85d3-321f259e0b9d)
 # Bulk Image Renamer
-
 The Bulk Image Renamer is a simple and user-friendly program designed to rename multiple files in a folder to a standardized format. This tool can be useful for organizing and managing large collections of images or files. It's surprisingly handy!
 
-## Pictures / Demo
-https://github.com/Willy-Chan/Bulk-Image-Renamer/assets/106504264/08aeb27b-3aea-4bda-a3bc-4429d6bdebca
-![image](https://github.com/Willy-Chan/Bulk-Image-Renamer/assets/106504264/94f00d2a-9e2c-4d59-85d3-321f259e0b9d)
+## Demo
+https://github.com/Willy-Chan/Bulk-Image-Renamer/assets/106504264/5f8de842-faa0-49bd-a102-d8cbe5bdf885
+
 
 ## Installation
 To use the Bulk Image Renamer, follow these steps:
